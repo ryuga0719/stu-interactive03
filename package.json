@@ -8,6 +8,15 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "sass": "^1.50.1",
     "vite": "^2.9.5"
+  },
+  "dependencies": {
+    "createjs": "^1.0.1",
+    "gsap": "^3.10.4",
+    "jquery": "^3.6.0",
+    "jquery.ripples": "^0.6.3",
+    "p5": "^1.4.1",
+    "ripples": "^0.0.1"
   }
 }
