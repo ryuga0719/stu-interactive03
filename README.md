@@ -2,4 +2,4 @@
 ## テーマ
 寄り道する動き
 ## Tech
-vite
+gsap, rippleJs
